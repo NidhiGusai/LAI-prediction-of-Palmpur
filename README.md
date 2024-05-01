@@ -17,3 +17,8 @@ vegetation indices, reaffirming their importance in remote sensing-based LAI est
 Except for Red Edge NDVI, all investigated indices demonstrate relevance, emphasizing
 their collective utility in monitoring wheat crop dynamics. The data for all the vegetation
 indices were downloaded from Google Earth Engine Sentinel-2 satellite imagery
+
+
+The link for data and python file is mention below :
+
+https://drive.google.com/drive/folders/1-rWxRhkwSs5dXU79GfsiROEYqcNsUCYx?usp=sharing
